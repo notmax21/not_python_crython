@@ -1,0 +1,23 @@
+Python stuff lol
+Nutmeg proof python 
+//Content 
+- Basic 
+- Lists
+- If + Else statements
+
+
+//Basic
+- Data types - String (( e.g “Nutmeg” or anything with “” surrounding it)) - Integer (( e.g 27 or any whole number )) - Boolean (( e.g True or False , remember to always have capitals )) - Float (( e.g 5.93 or any decimal number )) 
+- Variable - to create a variable use = (( e.g user_name = nutmegggg , remember when making variables if you need a space use _ ))
+- Print - To ‘print’/write something in the shell (( e.g print(“nutmeg”) , remember when printing variables use {} surrounding the variable (?))) 
+- Embedding values - to put 2 different values in a string using 2 variables and a % (( e.g score = 1000 , message = “I scored %s points” , print(message % score) , I scored 1000 points - so essentially you put the sentence first, then the variable you want to insert after a % )) - Multiple embedded values - use print(*sentence_variable* % (*variable_1*, *variable_2*))(( e.g Intro = “% is way better than %.” , print(intro (“math”, “french”)) , math is way better than french. ))
+
+// Lists 
+- List - a list is useful as it can be manipulated , REMEMBER  LISTS GO 0,1,2,3 etc (( e.g cyber_centurion = [ “JohnTheRipper” , “Samba” , “Firefox” , “Firewall” , “Terminal” ] )) 
+- Indexing in lists - in a list you can print just a number or certain number of things (( e.g for one thing , print(cyber_centurion[4]) , Terminal , for multiple in terms of for example seeing third to fifth in my list, print(cyber_centurion[2:5]) , [“Firefox” , “Firewall” , “Terminal”]
+- Adding stuff to lists - to add something to your list you use the function .append ((e.g cyber_centurion.append(“Grass”) , print(cyber_centurion) , [ “JohnTheRipper” , “Samba” , “Firefox” , “Firewall” , “Terminal” , “Grass” ] )) 
+- deleting stuff from lists - to delete stuff from your lists use del command ((e.g del cyber_centurion[0] , print(cyber_centurion) , [ “Samba” , “Firefox” , “Firewall” , “Terminal” , “Grass” ] )) 
+- Map - a list with a key and a corresponding value, remember to use {} not [] ((e.g cool_people = { “Nutmeg” : “Artist” , “Max” : “Dumb frick” , “Stephanie” : “Dog” } , print(cool_people[“Max”]) , Dumb frick))
+- Deleting a value in a map - again use the del function lmao ((e.g del cool_people[“Stephanie”] , print(cool_people) , { “Nutmeg” : “Artist” , “Max” : “Dumb frick” } ))
+
+//If + Else statements
