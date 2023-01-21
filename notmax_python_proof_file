@@ -11,6 +11,7 @@ Python stuff lol
 - Variable - to create a variable use = (( e.g user_name = nutmegggg , remember when making variables if you need a space use _ ))
 - Print - To ‘print’/write something in the shell (( e.g print(“nutmeg”) , remember when printing variables use {} surrounding the variable (?))) 
 - Embedding values - to put 2 different values in a string using 2 variables and a % (( e.g score = 1000 , message = “I scored %s points” , print(message % score) , I scored 1000 points - so essentially you put the sentence first, then the variable you want to insert after a % )) - Multiple embedded values - use print(*sentence_variable* % (*variable_1*, *variable_2*))(( e.g Intro = “% is way better than %.” , print(intro (“math”, “french”)) , math is way better than french. ))
+- When using '' for speech if you want to include ' in the word like in don't do don\'t to get don't
 
 // Lists 
 - List - a list is useful as it can be manipulated , REMEMBER  LISTS GO 0,1,2,3 etc (( e.g cyber_centurion = [ “JohnTheRipper” , “Samba” , “Firefox” , “Firewall” , “Terminal” ] )) 
