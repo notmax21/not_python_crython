@@ -21,3 +21,13 @@ Python stuff lol
 - Deleting a value in a map - again use the del function lmao ((e.g del cool_people[“Stephanie”] , print(cool_people) , { “Nutmeg” : “Artist” , “Max” : “Dumb frick” } ))
 
 //If + Else statements
+
+
+//Rando
+
+end function:
+correct = False
+while correct == False:
+  blah blah blah
+  correct = True
+that makes the loop thing end
