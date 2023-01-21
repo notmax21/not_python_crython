@@ -1,2 +1,2 @@
-# python_crython
-the way to get crippling depression
+# not_python_crython
+
